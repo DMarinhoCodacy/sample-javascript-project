@@ -6,7 +6,7 @@ function add(a, b) {
     console.log('YAY')
     console.log(`YAY`)
     return a + b;
-  } 
+  }
   
   // Function to subtract two numbers
   function subtract(a, b) {
