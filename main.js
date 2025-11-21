@@ -6,7 +6,7 @@ const { add, subtract } = require('./util');
 // Function to add two numbers
 function addNumbers(a, b) {
   return add(a, b);
-}
+} 
 
 // Function to subtract two numbers
 function subtractNumbers(a, b) {
